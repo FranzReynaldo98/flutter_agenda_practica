@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "856370116741",
+    "project_id": "crudflutteragenda",
+    "storage_bucket": "crudflutteragenda.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:856370116741:android:8010509e66fdeab33e51ec",
+        "android_client_info": {
+          "package_name": "com.flutterinicio.appmiagenda"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "856370116741-m6fd4gn87l69kgms7kjsdt7eb5p4fe7r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAouXtFcEKrBdSclQRd6QHDNouiQItWZmA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "856370116741-m6fd4gn87l69kgms7kjsdt7eb5p4fe7r.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
